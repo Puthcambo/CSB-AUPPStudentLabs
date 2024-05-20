@@ -1,0 +1,7 @@
+             Name  ID  Math  English  Science
+0        John Doe   1    90       85       92
+1      Jane Smith   2    78       92       88
+2  Robert Johnson   3    85       80       78
+3     Emily White   4    95       89       94
+4   Michael Brown   5    88       91       85            
+
